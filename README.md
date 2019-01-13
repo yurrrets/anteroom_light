@@ -1,0 +1,1 @@
+anteroom_light
